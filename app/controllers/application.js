@@ -17,6 +17,8 @@
 */
 
 var Application = function () {
+	//this.protectFromForgery();
+
 };
 
 exports.Application = Application;
